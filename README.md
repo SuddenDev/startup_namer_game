@@ -1,4 +1,4 @@
-# startup_namer
+# Startup Namer: The Game
 
 A new Flutter project.
 
